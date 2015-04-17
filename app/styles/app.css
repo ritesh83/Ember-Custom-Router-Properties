@@ -20,7 +20,7 @@ li
 
 .navLabel
 {
-   padding: 5px;
+    padding: 5px;
 }
 
 .left-nav
@@ -44,27 +44,27 @@ li
 
 #module-iframe
 {
-  border: none;
+    border: none;
 }
 
 .heading
 {
-  float: left;
-  padding: 10px;
-  width: 120px;
-  height: 55px;
+    float: left;
+    padding: 10px;
+    width: 120px;
+    height: 55px;
 }
 
 .main-buttons-div
 {
-  float: right;
-  padding: 10px;
+    float: right;
+    padding: 10px;
 }
 
 .dashboard
 {
-    left: 50%;
-    top: 50%;
+    left: 500px;
+    top: 300px;
     position: absolute;
     font-weight: bold;
     font-size: 30px;
