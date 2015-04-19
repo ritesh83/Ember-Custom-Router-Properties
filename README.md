@@ -2,6 +2,12 @@
 
 Simple example of adding custom properties when defining routes. 
 
+Loads the following 2 apps:
+  https://github.com/ritesh83/irvine
+  https://github.com/ritesh83/Santa-Monica   
+
+See their router.js files.
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
